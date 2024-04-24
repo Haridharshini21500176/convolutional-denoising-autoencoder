@@ -26,7 +26,7 @@ To develop a convolutional autoencoder for image denoising application.
 ## Convolution Autoencoder Network Model:
 
 <p align="center">
-<img src="https://github.com/Kaushika-Anandh/convolutional-denoising-autoencoder/blob/main/4.png" width="650" height="150">
+![](./cnm.png)
 </p>
 
 
