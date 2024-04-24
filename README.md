@@ -16,19 +16,15 @@ To develop a convolutional autoencoder for image denoising application.
 - The dataset has a collection of 60,000 handwrittend digits of size 28 X 28.
 - Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
 
-<p align="center">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/mnist.png" width="350" height="200">
-</p>
-
+![](./mnist.png)
 <br>
 
 
 ## Convolution Autoencoder Network Model:
 
-<p align="center">
+
 ![](./cnm.png)
-   ![](./cnm.png)
-</p>
+
 
 
 ## DESIGN STEPS
