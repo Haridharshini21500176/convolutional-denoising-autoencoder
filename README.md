@@ -27,6 +27,7 @@ To develop a convolutional autoencoder for image denoising application.
 
 <p align="center">
 ![](./cnm.png)
+   ![](./cnm.png)
 </p>
 
 
