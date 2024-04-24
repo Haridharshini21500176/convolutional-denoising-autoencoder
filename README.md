@@ -21,15 +21,7 @@ To develop a convolutional autoencoder for image denoising application.
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Convolution Autoencoder Network Model:
 
